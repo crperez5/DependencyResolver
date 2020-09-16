@@ -33,7 +33,7 @@ Application logic.
 Provides access to external dependencies such us the file system. 
 
 
-## Additionally...
+## In Addition
 
 A test project has been included to verify correct behavior. The implementation
 has been done following TDD. 
