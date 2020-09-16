@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DependencyResolver.CLI": {
+      "commandName": "Project",
+      "commandLineArgs": "-f \"C:\\\\Apps\\\\DependencyResolver\\\\DependencyResolver.Test\\\\bin\\\\Debug\\\\netcoreapp3.1\\\\testdata\\\\input005.txt\""
+    }
+  }
+}
